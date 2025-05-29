@@ -1,12 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
-
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+title = "Otakufobia Radio Now!"
+description = "Zine dispatches from the edge of good taste"
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["images/otakufobia-logo.png"]
