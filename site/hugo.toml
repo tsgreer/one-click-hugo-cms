@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Otakufobia Radio Now!"
-description = "Zine dispatches from the edge of good taste"
+description = "Zine dispatches from the edge of good taste."
 
 [params]
 images = ["images/otakufobia-logo.png"]
